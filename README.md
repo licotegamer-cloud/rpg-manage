@@ -27,11 +27,11 @@ RPG Manage é um projeto desenvolvido em JavaScript com o objetivo de praticar l
 - Métodos de Arrays (`push`, `splice`, `indexOf`)
 - `Math.max()`
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este projeto foi desenvolvido como parte dos meus estudos em JavaScript, com foco em praticar lógica de programação, manipulação de objetos e criação de sistemas utilizando apenas JavaScript.
 
-## 🚀 Melhorias futuras
+##  Melhorias futuras
 
 - Interface gráfica com HTML e CSS
 - Sistema de salvar e carregar progresso
@@ -41,10 +41,10 @@ Este projeto foi desenvolvido como parte dos meus estudos em JavaScript, com foc
 - Missões
 - Melhor organização do código utilizando módulos
 
-## 📷 Demonstração
+##  Demonstração
 
 Em breve.
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Licoti** como projeto de estudos.
